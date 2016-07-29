@@ -1,0 +1,13 @@
+{
+  "appname": "chocolate-buyer-app",
+  "ocscope": "FullAccess DevCenterImpersonate BuyerAdmin BuyerReader",
+  "clientid": "8E2B1704-7A85-40E3-AA4B-11416E4B844F",
+  "buyerid": "chocobuyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
